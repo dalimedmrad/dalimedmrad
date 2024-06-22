@@ -10,7 +10,7 @@
 
 🏢 Currently working at Sagemcom as an IT System & DevOps Engineer.
 
-- 🌐 [LinkedIn](*https://www.linkedin.com/in/mohamed-ali-mrad-3a9370199/**)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/mohamed-ali-mrad-3a9370199/)
 - 📧 [Email](mailto:mohamedalimrad3@gmail.com)
 
 Thanks for visiting my GitHub profile! 😄
